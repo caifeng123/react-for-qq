@@ -1,0 +1,25 @@
+.me{
+  text-align: right;
+}
+.me .am-list-thumb{
+  position: absolute;
+  right: 0;
+}
+.me .am-list-line .am-list-content{
+  position: absolute;
+  right: 42px;
+}
+.msg{
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 9;
+  border-top: 1px solid;
+}
+.msg .am-input-control{
+  border-right: 2px solid;
+}
+.am-card-body{
+  z-index: 0;
+}
