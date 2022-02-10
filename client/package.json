@@ -47,7 +47,7 @@
     "customize-cra": "^1.0.0",
     "less": "^3.11.1",
     "less-loader": "^6.1.0",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "sass-loader": "^8.0.2"
   },
   "proxy": "http://localhost:4000"
